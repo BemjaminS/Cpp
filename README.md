@@ -1,6 +1,6 @@
 # C++
 
-## my anowlage in C++
+## my knowledge in C++ :
 * Function
 * Switch/case
 * Loops (for/while)
